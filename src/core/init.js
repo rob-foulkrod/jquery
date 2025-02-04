@@ -9,6 +9,7 @@ import "../traversing/findFilter.js";
 // A central reference to the root jQuery(document)
 var rootjQuery,
 
+	// This is a great comment. Nice Job!
 	// A simple way to check for HTML strings
 	// Prioritize #id over <tag> to avoid XSS via location.hash (trac-9521)
 	// Strict HTML recognition (trac-11290: must start with <)
